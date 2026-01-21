@@ -35,6 +35,3 @@ The dataset was loaded into **SQL Workbench through Jupyter**, and various SQL q
 - SQL executed directly from Jupyter Notebook  
 - Business-focused analytical questions  
 
-
-## ✅ Conclusion
-This project showcases practical SQL skills applied to real-world E-commerce business problems.
